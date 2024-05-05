@@ -31,7 +31,8 @@ dependencies:
     - cachetools==4.1.0
     - certifi==2020.6.20
     - cffi==1.14.0
-    - chainer==7.7.0
+    - chardet==4.4.0
+    - chainer==7.8.0
     - cPython==0.0.6
     - cupy==7.7.0
     - cycler==0.10.0
