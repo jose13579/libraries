@@ -29,7 +29,6 @@ dependencies:
     - backcall
     - bleach
     - cachetools
-    - cffi
     - cPython
     - cupy==7.7.0
     - cycler
