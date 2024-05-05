@@ -31,7 +31,6 @@ dependencies:
     - cachetools
     - cffi
     - chardet
-    - chainer==7.7.0
     - cPython
     - cupy==7.7.0
     - cycler
