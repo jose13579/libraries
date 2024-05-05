@@ -30,7 +30,6 @@ dependencies:
     - bleach
     - cachetools
     - cffi
-    - chardet
     - cPython
     - cupy==7.7.0
     - cycler
