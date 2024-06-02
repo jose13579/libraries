@@ -36,7 +36,6 @@ dependencies:
     - matplotlib
     - notebook
     - numpy
-    - opencv-python
     - pandas
     - Pillow
     - pycuda==2019.1.2
