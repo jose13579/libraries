@@ -4,7 +4,7 @@ channels:
 dependencies:
   - ca-certificates=2020.7.22=0
   - cudatoolkit=10.0
-  - pip=22.0.3
+  - pip=20.0.2
   - python=3.6.3
   - pip:
     - cupy==7.7.0
